@@ -1,0 +1,27 @@
+article{
+  border: 2px solid black;
+  padding: 20px;
+  margin: 10px;
+  width: 30%;
+  text-align: center;
+}
+.styleme1 {
+  color: red;
+}
+
+#styleme2 {
+  color: blue;
+}
+
+.styleme1#styleme2 {
+  color: purple
+}
+
+#my-descendants-are-styled{
+  background-color: red;
+}
+
+#my-children-are-styled{
+  background-color: lightgreen;
+}
+
